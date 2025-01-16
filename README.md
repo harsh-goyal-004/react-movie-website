@@ -16,7 +16,7 @@ Visit the live website: [MoviesHive](https://react-movie-website-six.vercel.app/
 ## Screenshots 📸
 
 ### Home Page
-[![Home Page](https://i.postimg.cc/bNMRPXR3/Screenshot-20241226-030614.png)](https://postimg.cc/kBQSNpzb)
+[![Home Page](https://i.postimg.cc/7h38jK6C/Screenshot-20241226-030614.png)](https://postimg.cc/rRwPrC5c)
 
 ---
 
