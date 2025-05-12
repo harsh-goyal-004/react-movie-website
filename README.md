@@ -11,7 +11,7 @@
 
 ## Demo 🌐
 
-Visit the live website: [MoviesHive](https://react-movie-website-six.vercel.app/)
+Visit the live website: [MoviesHive](https://movieshive.vercel.app)
 
 ## Screenshots 📸
 
